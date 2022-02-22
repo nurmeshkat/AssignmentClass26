@@ -1,0 +1,142 @@
+
+
+img{
+    max-width: 100%;
+}
+.common-heading {
+}
+.brands .common-heading h6{
+    color: #3763eb;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.brands .common-heading h2{
+    position: relative;
+    padding-bottom: 30px;
+    padding-right: 85px;
+}
+.brands .common-heading p {
+    font-size: 17px;
+    padding-right: 70px;
+}
+
+.brands .common-heading h2::after {
+    content: "";
+    position: absolute;
+    bottom: 18px;
+    left: 1%;
+    height: 2px;
+    width: 60px;
+    background-color: #3763eb;
+    border-radius: 5px;
+}
+.common-heading h6{
+    color: #3763eb;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.common-heading h2{
+    position: relative;
+    padding-bottom: 30px;
+    margin-bottom: 0;
+}
+.brands .brand-img{
+    padding: 20px;
+    background-color: #f6f9fc;
+    opacity: .48;
+    transition: .6s;
+}
+.brands .brand-img:hover{
+    opacity: 1;
+}
+.brands .brand-img1{
+
+}
+.brands .brand-img2{
+
+}
+.brands .brand-img3{
+
+}
+.brands .brand-img4 {
+    padding: 28px 0;
+}
+.brands .brand-img5 {
+    padding: 32px 0;
+}
+.brands .brand-img6{
+
+}
+.blog .common-heading p {
+    padding: 0px 27%;
+    font-size: 17px;
+}
+
+.common-heading h2::after {
+    content: "";
+    position: absolute;
+    bottom: 18px;
+    left: 47%;
+    height: 2px;
+    width: 70px;
+    background-color: #3763eb;
+    border-radius: 5px;
+}
+.blog{}
+.blog .blog-img img{
+    border-radius: 5px;
+}
+.blog .blog-contant{
+    position: relative;
+}
+.blog .min-img {
+    padding: 7px 7px;
+    display: inline-block;
+    background-color: #3763eb;
+    position: relative;
+    top: -60px;
+    left: 52%;
+}
+.blog .min-img img {
+    width: 30px;
+    border-radius: 50%;
+}
+.blog .min-img span {
+    font-size: 14px;
+    color: #fff;
+    padding-right: 9px;
+}
+footer{
+    background-color: #081828;
+}
+footer .footer-top{
+    border-bottom: 1px solid #7d8492;
+}
+footer .footer-logo img {
+    width: 160px;
+}
+footer .footer-logo p {
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 52px 10px 0px;
+}
+footer .social-icon{
+    color: #fff;
+}
+footer .social-icon ul{}
+footer .social-icon ul li{
+    display: inline-block;
+}
+footer .social-icon ul li a {
+    display: inline-block;
+    color: white;
+    padding-right: 20px;
+    font-size: 18px;
+}
+.footer-content h5 {
+    border-left: 3px solid #3a69f9;
+    padding-left: 12px;
+    margin-bottom: 20px;
+}
